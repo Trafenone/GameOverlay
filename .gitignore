@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GameOverlay/bin
+/GameOverlay/obj
+/GameOverlay/Properties/PublishProfiles
+/GameOverlay/GameOverlay.csproj.user
